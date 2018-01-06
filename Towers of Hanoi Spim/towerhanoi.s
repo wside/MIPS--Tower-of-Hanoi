@@ -1,5 +1,5 @@
 # Tower of Hanoi 
-# MattFerreira, Wendy Ide, Izzie Rong
+# MattFerreira, Wendy Ide
 # March 7, 2016
 #----------------------------------------------------------------
 
